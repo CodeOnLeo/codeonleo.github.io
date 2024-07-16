@@ -1,6 +1,6 @@
 ---
 layout: post
-title: alias test
+title: 성공적인 테스트
 date: 2024-07-16 09:33 +0900
 description:
 image:
@@ -12,3 +12,5 @@ pin: false
 math: true
 mermaid: true
 ---
+
+# 건조기 상태 안좋다
