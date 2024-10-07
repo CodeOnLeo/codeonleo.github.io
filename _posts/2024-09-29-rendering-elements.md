@@ -84,6 +84,7 @@ mermaid: true
 
 ### ERROR
 > Uncaught TypeError: react_dom_clientWEBPACK_IMPORTED_MODULE_1.render is not a function
+
 - 원인 : React 18 부터는 `ReactDOM.render()` 사용 불가 [React 17까지만 가능]
 ```jsx
   - setInterval(() => {
